@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2988ce6-1d57-4158-a739-b6d8a0d46a3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/djangoProject3/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/out.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/out.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/app1/start.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/app2/start2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/app3/start3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app1/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app1/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app2/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app2/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app2/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app3/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app3/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoProject3/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject3/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject3/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject3/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/app2/start2.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/app2/start2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +38,7 @@
         <option value="lim jungwon" />
       </list>
     </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -61,12 +60,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/app3" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\PycharmProjects\djangoProject3\templates\app3" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="djangoProject3" type="Python.DjangoServer" factoryName="Django server">
@@ -102,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1641428760357</updated>
       <workItem from="1641428778943" duration="99000" />
-      <workItem from="1641431281535" duration="8097000" />
+      <workItem from="1641431281535" duration="10402000" />
     </task>
     <task id="LOCAL-00001" summary="2022-01-06 11:29">
       <created>1641436207274</created>
@@ -111,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641436207274</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2022-01-06 11:29">
+      <created>1641452923912</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641452923912</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
