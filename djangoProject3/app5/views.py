@@ -21,3 +21,7 @@ def js03(request):
 def js04(request):
     print('=================== js04호출됨.')
     return render(request, "app5/js04.html")
+
+def js05(request):
+    print('=================== js05호출됨.')
+    return render(request, "app5/js05.html")

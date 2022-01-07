@@ -3,11 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    {% load static %}
+    <script type="text/javascript" src="{% static 'jquery-3.6.0.js' %}"></script>
     <script>
+        $(function(){
+            alert('jquery...성공..!!!')
+        })
         //document = new  Document()
         //미리 객체를 만들어서 제공하고 있음. 빌트인 객체(내장된 객체)
-        document.write('hello')
-        location.href = "http://www.naver.com"
+        //document.write('hello')
+        //location.href = "http://www.naver.com"
         //document.getElementById('idValue')
 
     </script>
