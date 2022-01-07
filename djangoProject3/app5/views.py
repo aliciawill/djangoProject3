@@ -9,3 +9,15 @@ def start5(request):
 def js01(request):
     print('=================== js01호출됨.')
     return render(request, "app5/js01.html")
+
+def js02(request):
+    print('=================== js02호출됨.')
+    return render(request, "app5/js02.html")
+
+def js03(request):
+    print('=================== js03호출됨.')
+    return render(request, "app5/js03.html")
+
+def js04(request):
+    print('=================== js04호출됨.')
+    return render(request, "app5/js04.html")
