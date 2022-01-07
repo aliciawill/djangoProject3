@@ -18,6 +18,8 @@
         n2Value = document.getElementById('n2').value
         result = parseInt(n1Value) + parseInt(n2Value)
         alert('두 수의 합은 ' + result)
+        divTag = document.getElementById('div')
+        divTag.innerText = result
     }
     </script>
 </head>
@@ -28,5 +30,6 @@
 숫자1 : <input name="n1" id="n1" value="5555"><br>
 숫자2 :  <input name="n2" id="n2" value="2222"><br>
 <button onclick="sum()">두 수의 합</button>
+<div id="div"></div>
 </body>
 </html>

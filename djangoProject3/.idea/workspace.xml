@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2988ce6-1d57-4158-a739-b6d8a0d46a3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../djangoProject3.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/app5/js02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/app5/js03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/app5/js04.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app5/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app5/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app5/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app5/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/app5/start5.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/app5/start5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/app5/js03.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/app5/js03.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +48,14 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e64886d1-9e80-4f3a-976d-6faed878f36f" />
+        <option name="url" value="https://github.com/aliciawill/djangoProject3.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -124,7 +126,7 @@
       <updated>1641428760357</updated>
       <workItem from="1641428778943" duration="99000" />
       <workItem from="1641431281535" duration="15018000" />
-      <workItem from="1641515342269" duration="12653000" />
+      <workItem from="1641515342269" duration="14292000" />
     </task>
     <task id="LOCAL-00001" summary="2022-01-06 11:29">
       <created>1641436207274</created>
@@ -168,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641520933099</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2022-01-06 6:00">
+      <created>1641535741822</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1641535741822</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
