@@ -21,7 +21,8 @@
 <a href="/start3?n1=100&n2=300&subject={{ subject }}">to start3</a><br>
 <a href="/start3?n1=1111&n2=3333&subject={{ subject }}">to start3</a><br>
 <a href="/start3?n1=5555&n2=1111&subject={{ subject }}">to start3</a><hr>
-<form action="/start4" method="post">
+{#<form action="/start4" method="post">#}
+<form action="{% url 'start4' %}" method="post">
     {% csrf_token %}
     n1 : <input name="n1" value="2222"><br>
     n2 : <input name="n2" value="3333"><br>
